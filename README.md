@@ -11,7 +11,7 @@
 ```shell
 با استفاده از  این دستور میتوان عنوان گذاری کرد
 ```
-- \includegraphics[scale=0.2]{Address}
+- \includegraphics[scale=0.1]{Address}
 
 ```shell
 برای ایجاد تصویر از این دستور استفاده میشود 
